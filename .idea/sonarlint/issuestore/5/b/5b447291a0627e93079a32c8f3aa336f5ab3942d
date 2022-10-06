@@ -1,0 +1,10 @@
+
+S
+java:S1612"=Replace this lambda with method reference 'CategoryDTO::new'.(Žü™Ë
+Q	java:S125""<This block of commented-out lines of code should be removed.(ÿãÍ­
+D
+java:S18747".Remove this use of "getOne"; it is deprecated.(ÒŠ¥‡
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
